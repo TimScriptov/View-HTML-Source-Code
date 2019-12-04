@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="code"
+        android:title="@string/preference_title_code_viewer_theme">
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/themes"
+            android:entryValues="@array/themesValues"
+            android:key="theme_preference" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="show_line_numbers"
+        android:title="@string/preference_title_show_line_numbers">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="line_numbers"
+            android:title="@string/preference_title_show_line_numbers" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="text"
+        android:title="@string/preference_text_size">
+        <ListPreference
+            android:defaultValue="14"
+            android:entries="@array/text_sizes"
+            android:entryValues="@array/text_sizes"
+            android:key="text_size_preference" />
+    </PreferenceCategory>
+</PreferenceScreen>

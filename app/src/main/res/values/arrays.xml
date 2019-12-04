@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="htmltags">
+        <item>&lt;a></item>
+        <item>&lt;img></item>
+        <item>&lt;table></item>
+        <item>&lt;ul></item>
+        <item>&lt;p></item>
+        <item>&lt;span></item>
+    </string-array>
+    <string-array name="text_sizes">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="text_sizes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Dracula</item>
+        <item>Atom light</item>
+        <item>Atom dark</item>
+        <item>Monokai</item>
+        <item>XCode</item>
+    </string-array>
+    <string-array name="themesValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

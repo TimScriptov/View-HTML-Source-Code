@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mmadsdk_ad_button_height">50.0dip</dimen>
+    <dimen name="mmadsdk_ad_button_padding_left">15.0dip</dimen>
+    <dimen name="mmadsdk_ad_button_width">50.0dip</dimen>
+    <dimen name="mmadsdk_control_button_height">40.0dip</dimen>
+    <dimen name="mmadsdk_control_button_width">40.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_bottom_margin">10.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_fullscreen_companion_top_margin">100.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_height">90.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_height">30.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_right_margin">3.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_top_margin">3.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_width">30.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_replay_button_height">45.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_replay_button_width">45.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_right_margin">10.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_top_margin">25.0dip</dimen>
+    <dimen name="mmadsdk_lightbox_width">160.0dip</dimen>
+    <dimen name="activity_horizontal_margin">0.0dip</dimen>
+    <dimen name="activity_vertical_margin">0.0dip</dimen>
+    <dimen name="mmadsdk_control_button_max_width_height">40.0dip</dimen>
+    <dimen name="mmadsdk_control_button_min_width_height">20.0dip</dimen>
+    <dimen name="mmadsdk_mraid_resize_close_area_size">50.0dip</dimen>
+</resources>

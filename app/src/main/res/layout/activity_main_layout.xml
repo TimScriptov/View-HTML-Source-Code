@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:background="?colorPrimary">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="8.0dip"
+                android:layout_marginBottom="8.0dip"
+                app:cardBackgroundColor="@color/white">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/searchfield"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8.0dip"
+                    android:background="@color/white"
+                    android:imeOptions="actionGo"
+                    android:inputType="textWebEmailAddress"
+                    android:selectAllOnFocus="true"
+                    android:text="www.google.com"
+                    android:textColor="@color/black"
+                    tools:ignore="HardcodedText" />
+
+            </androidx.cardview.widget.CardView>
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/activity_main" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+

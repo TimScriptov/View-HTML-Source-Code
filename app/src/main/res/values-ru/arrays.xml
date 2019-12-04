@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="themes">
+        <item>По умолчанию</item>
+        <item>Dracula</item>
+        <item>Atom light</item>
+        <item>Atom dark</item>
+        <item>Monokai</item>
+        <item>XCode</item>
+    </string-array>
+</resources>

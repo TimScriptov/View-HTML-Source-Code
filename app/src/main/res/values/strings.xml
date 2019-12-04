@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">View HTML Source Code</string>
+    <string name="console">Type your commands here</string>
+    <string name="deleteSession">Delete session</string>
+    <string name="down">Down</string>
+    <string name="editContent">Edit Website Content</string>
+    <string name="editcontent">Edit Page Content</string>
+    <string name="inspectorMode">Inspector Mode</string>
+    <string name="javascriptconsole">Javascript Console Prototype</string>
+    <string name="loadSession">Load session</string>
+    <string name="manageSessions">Manage Sessions</string>
+    <string name="mmadsdk_app_name">sdk</string>
+    <string name="nnf_create_folder_error">Failed to create folder</string>
+    <string name="nnf_name">Name</string>
+    <string name="nnf_new_folder">New folder</string>
+    <string name="nnf_permission_external_write_denied">Permisson to access filesystem denied</string>
+    <string name="nnf_select_something_first">Please select something first</string>
+    <string name="open">Open HTML file…</string>
+    <string name="opencss">Load CSS styles…</string>
+    <string name="refresh">Refresh</string>
+    <string name="request_desktop_version">Request desktop version</string>
+    <string name="request_desktop_versions">Request desktop version</string>
+    <string name="saveSession">Save current session</string>
+    <string name="search">Search</string>
+    <string name="searchtags">Search Tags</string>
+    <string name="settings">Settings</string>
+    <string name="sharePageSource">Share Page Source</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="up">Up</string>
+    <string name="viewHTML">View Source</string>
+    <string name="viewInBrowser">View In Browser</string>
+    <string name="view_elements">View Html Elements</string>
+
+    <string name="preference_title_code_viewer_theme">Code Viewer Theme</string>
+    <string name="preference_title_show_line_numbers">Show Line numbers</string>
+    <string name="preference_text_size">Text size</string>
+</resources>
